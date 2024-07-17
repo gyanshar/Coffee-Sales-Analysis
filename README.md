@@ -14,3 +14,6 @@ Products - Product ID,	Coffee Type,	Roast Type,	Size,	Unit Price,	Price per 100g
 
 -	Made a dashboard in Excel to show the sales trend in different sub-categories, top 5 customers, and top 3 sales by country which are filtered by 4 attributes 
 - Cleaned and Pre-processed 1,000 rows using Excel to prepare the data for analysis using XLOOKUP and Pivot Tables
+
+## Dashboard:
+![](Dashboard.png)
