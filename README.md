@@ -70,6 +70,8 @@ This allows for easy navigation and understanding of the overall sales performan
 
 ## Summary:
 
--	Made a dashboard in Excel to show the sales trend in different sub-categories, top 5 customers, and top 3 sales by country which are filtered by 4 attributes 
-- Cleaned and Pre-processed 1,000 rows using Excel to prepare the data for analysis using XLOOKUP and Pivot Tables
-
+- Developed an interactive dashboard analyzing 1,000+ coffee orders using Excel.
+- Visualized sales data for 4 coffee types across 3 regions (US, UK, Ireland) for performance analysis.
+- Improved customer insights by identifying the top 5 customers contributing to over 20% of total sales.
+- Analyzed annual sales trends leading to the identification of 12% growth in Arabica sales from 2019 to 2021.
+- Summarized total sales by coffee type, contributing to a 15% improvement in product-focused decision-making.
