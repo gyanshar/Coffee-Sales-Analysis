@@ -5,16 +5,12 @@ This project provides a comprehensive analysis of coffee sales data, presented t
 ![](Dashboard.png)
 
 ## Data Overview:
-The dataset used for this project comprises several sheets with detailed information on coffee orders, customer details, product specifications, and sales summaries. The data has been organized to facilitate analysis and visualization.
+The dataset used for this project comprises several sheets with detailed information on coffee orders, customer details, and product specifications. The data has been organized to facilitate analysis and visualization.
 
 #### Sheets:
 - orders: Contains individual order details, including order ID, customer ID, product ID, quantity, price, sales, and customer details.
 - customers: Provides detailed information about customers such as name, email, phone, address, and loyalty card status.
 - products: Lists available coffee products with their specifications, including coffee type, roast type, size, unit price, and profit margin.
-- TotalSales: A summary of total sales categorized by coffee type and year.
-- CountryBarChart: Data representing total sales per country.
-- TopFiveCustomers: Information about the top five customers based on their total sales.
-- Dashboard: Summary of key insights in a dashboard format.
 
 ## Dataset Details:
 
