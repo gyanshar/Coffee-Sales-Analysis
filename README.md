@@ -16,7 +16,8 @@ The dataset used for this project comprises several sheets with detailed informa
 - TopFiveCustomers: Information about the top five customers based on their total sales.
 - Dashboard: Summary of key insights in a dashboard format.
 
-## Dataset Details
+## Dataset Details:
+
 1. Orders Sheet
 - Order ID: Unique identifier for each order.
 - Order Date: The date the order was placed.
@@ -54,7 +55,7 @@ Contains the top five customers by total sales, showing their individual sales c
 13. Dashboard
 Provides a high-level view of coffee sales trends, top customers, and other key performance metrics.
 
-## Key Visualizations
+## Key Visualizations:
 
 - Sales by Country: Bar chart summarizing total sales across different countries, enabling a comparison of sales performance by region.
 - Top 5 Customers: Highlights the top-performing customers based on their purchases.
